@@ -1,0 +1,14 @@
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.csproj.AssemblyReference.cache
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.AssemblyInfoInputs.cache
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.AssemblyInfo.cs
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.csproj.CoreCompileInputs.cache
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.exe
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.deps.json
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.runtimeconfig.json
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.runtimeconfig.dev.json
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.dll
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\bin\Debug\netcoreapp3.1\Tableau.trie.pdb
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.dll
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.pdb
+C:\Users\omar_\source\repos\Tableau.trie\Tableau.trie\obj\Debug\netcoreapp3.1\Tableau.trie.genruntimeconfig.cache
